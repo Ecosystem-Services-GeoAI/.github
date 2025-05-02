@@ -1,1 +1,5 @@
-# .github
+We are a research group of geographers, machine learning engineers, interdisciplinary ecologists, and environmental data scientists from [Dr. Chang Zhao](https://agronomy.ifas.ufl.edu/people/chang-zhao/)’s ***[Ecosystem Services Geo-AI](https://changzhao-geods.github.io/Ecosystem-Services-GeoAI-Lab/)*** Lab at the Agronomy Department at the University of Florida. 
+
+Ecosystem Services is a transdisciplinary field that studies both marketed and non-marketed goods and benefits within complex socio-ecological systems, including biodiversity, human activity, and the abiotic environment. These services include soil and aboveground biomass carbon storage and sequestration, pollination, wildlife observation, outdoor recreation, and biodiversity, etc. 
+
+We employ a wide range of geospatial, statistical, and Artificial Intelligence (AI) methods, as well as observational, modeling, and mixed approaches to quantify and map diverse ecosystem services offered by both urban and rural landscapes, from local to global scales. As an interdisciplinary team, we strive to establish close collaborations with agronomists, ecologists, entomologists, engineers, economists, computer scientists, and social scientists to advance ecosystem services and biodiversity research. 
